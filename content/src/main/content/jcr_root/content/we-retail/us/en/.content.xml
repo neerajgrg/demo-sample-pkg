@@ -363,7 +363,7 @@
                     jcr:lastModifiedBy="admin"
                     jcr:mixinTypes="[cq:LiveRelationship]"
                     jcr:primaryType="nt:unstructured"
-                    jcr:title="Join our Community"
+                    jcr:title="Join our Community neeraj garg"
                     sling:resourceType="weretail/components/content/title"
                     type="h2"/>
                 <teaser_984780047
