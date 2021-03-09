@@ -24,6 +24,7 @@
 	<packaging>content-package</packaging>
 	<name>AEM Communities Sample OAuth Provider Package</name>
 	<version>1.0-SNAPSHOT</version>
+	<groupId>com.adobe.social.sample</groupId>
 
 	<dependencies>
 		<dependency>
