@@ -1,3 +1,4 @@
+
 AEM Communities Sample OAuth Provider
 ========
 This sample code demonstrates a basic implementation of a [Provider](https://docs.adobe.com/docs/en/aem/6-1/ref/javadoc/com/adobe/granite/auth/oauth/Provider.html "Provider Interface Javadoc") to enable one to implement a custom OAuth Provider for AEM Communities.
