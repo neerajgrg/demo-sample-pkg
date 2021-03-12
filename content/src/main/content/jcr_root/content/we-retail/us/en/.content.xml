@@ -91,7 +91,7 @@
                         jcr:lastModifiedBy="admin"
                         jcr:mixinTypes="[cq:LiveRelationship]"
                         jcr:primaryType="nt:unstructured"
-                        jcr:title="For those who never stop"
+                        jcr:title="For those who never stop neeraj"
                         sling:resourceType="weretail/components/content/teaser"
                         actionsEnabled="true"
                         descriptionFromPage="false"
