@@ -1,9 +1,9 @@
 
 
 
-AEM Communities Sample OAuth Provider
+AEM We-Retail Content Package
 ========
-This sample code demonstrates a basic implementation of a [Provider](https://docs.adobe.com/docs/en/aem/6-1/ref/javadoc/com/adobe/granite/auth/oauth/Provider.html "Provider Interface Javadoc") to enable one to implement a custom OAuth Provider for AEM Communities.
+This sample code include content package for AEM sample site(we-retail)
 
 Building
 --------
