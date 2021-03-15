@@ -19,12 +19,12 @@
 	<!-- ====================================================================== -->
 
 	<groupId>com.adobe.social.sample</groupId>
-	<artifactId>aem-communities-oauth-provider-reactor</artifactId>
+	<artifactId>aem-we-retail-reactor</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
-	<name>AEM Communities Sample OAuth Provider - Reactor Project</name>
-	<description>Maven  project AEM Communities Sample OAuth Provider.</description>
+	<name>AEM We Retail Project</name>
+	<description>AEM We Retail Project</description>
 
 	<prerequisites>
 		<maven>3.0.2</maven>
